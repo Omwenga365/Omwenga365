@@ -5,9 +5,9 @@ I build **clean, user-focused web applications** while applying strategic commun
 
 ---
 
-## 🌱 What I’m Working On
+## 🌱 What I’m working on
 - Enhancing **full-stack skills** (React + Rails + Node.js)  
-- Learning **TypeScript** and **Express** for stronger backend development  
+- Learning **TypeScript** and **Express** to strengthen backend development  
 - Building **real-world projects** that solve problems  
 - Exploring **no-code tools**, app integrations, and automation  
 - Improving **SEO**, corporate communication, and digital strategy  
@@ -16,68 +16,58 @@ I build **clean, user-focused web applications** while applying strategic commun
 
 ## 🛠️ Tech Stack
 
-<p align="center">
+**Frontend:**  
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react" height="40"/> 
+<img src="https://skillicons.dev/icons?i=vue" height="40"/> 
+<img src="https://skillicons.dev/icons?i=nextjs" height="40"/> 
+<img src="https://skillicons.dev/icons?i=javascript" height="40"/>
+</p>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=typescript" height="40"/> 
+<img src="https://skillicons.dev/icons?i=tailwind" height="40"/>
+</p>
 
-<!-- Frontend -->
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" height="30" />
-<img src="https://img.shields.io/badge/Vue-42B883?style=for-the-badge&logo=vue.js&logoColor=white" height="30" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" height="30" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="30" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="30" />
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" height="30" />
+**Backend & DB:**  
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs" height="40"/> 
+<img src="https://skillicons.dev/icons?i=express" height="40"/> 
+<img src="https://skillicons.dev/icons?i=ruby" height="40"/> 
+<img src="https://skillicons.dev/icons?i=rails" height="40"/>
+</p>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=postgres" height="40"/> 
+<img src="https://skillicons.dev/icons?i=mongodb" height="40"/>
+</p>
 
-<br/><br/>
+**CMS & No-Code:**  
+<p align="left">
+<img src="https://skillicons.dev/icons?i=wordpress" height="40"/> 
+<img src="https://skillicons.dev/icons?i=webflow" height="40"/> 
+<img src="https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white" height="40"/>
+</p>
 
-<!-- Backend -->
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" height="30" />
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" height="30" />
-<img src="https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" height="30" />
-
-<br/><br/>
-
-<!-- Databases -->
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="30" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="30" />
-
-<br/><br/>
-
-<!-- Tools -->
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="30" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="30" />
-
+**Tools:**  
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git" height="40"/> 
+<img src="https://skillicons.dev/icons?i=github" height="40"/> 
+<img src="https://skillicons.dev/icons?i=figma" height="40"/> 
+<img src="https://skillicons.dev/icons?i=docker" height="40"/>
 </p>
 
 ---
 
-## 💻 Featured Tech Projects
-<p align="center">
-  <a href="https://github.com/Omwenga365/pet_finder" target="_blank">
-    <img src="https://img.shields.io/badge/Pet%20Finder-🐾-blue?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://github.com/Omwenga365/Wasafiri-Kisasa" target="_blank">
-    <img src="https://img.shields.io/badge/Wasafiri%20Kisasa-🌍-green?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://github.com/Omwenga365/Elewa-Website" target="_blank">
-    <img src="https://img.shields.io/badge/Elewa%20Website-🏫-orange?style=for-the-badge&logo=github" />
-  </a>
-</p>
+## 📌 Featured Tech Projects
+- **[Pet Finder](https://github.com/Omwenga365/pet_finder)** 🐾 — Connects people with adoptable pets.  
+- **[Wasafiri Kisasa](https://github.com/Omwenga365/Wasafiri-Kisasa)** 🌍 — Travel/transport UX project.  
+- **[Elewa Website](https://github.com/Omwenga365/Elewa-Website)** 🏫 — Educational web design.  
 
 ---
 
-## 📢 Strategic Communication Projects
-<p align="center">
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/HomeHaven%20Eco%20Campaign-🌱-blue?style=for-the-badge" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/ESPI%20Endangered%20Species-🐘-green?style=for-the-badge" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Corporate%20Branding-📢-orange?style=for-the-badge" />
-  </a>
-</p>
+## 💼 Strategic Communication Projects
+- **HomeHaven Eco Campaign** 🌱 — Developed an eco-friendly communication strategy with measurable impact metrics.  
+- **ESPI Endangered Species Project** 🐘 — Managed content, public engagement, and awareness campaigns for environmental conservation.  
+- **Corporate Branding & Messaging** 📢 — Created digital campaigns and corporate messaging for clients, ensuring consistent brand voice across channels.  
 
 ---
 
@@ -89,12 +79,10 @@ I build **clean, user-focused web applications** while applying strategic commun
 ---
 
 ## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Omwenga365&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omwenga365&layout=compact&theme=tokyonight" width="48%" />
-</p>
+![Victor’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Omwenga365&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Omwenga365&layout=compact&theme=tokyonight)  
+![Streak](https://streak-stats.demolab.com?user=Omwenga365&theme=tokyonight&border_radius=5)  
 
 ---
 
 ✨ *“Code is like humor. When you have to explain it, it’s bad.”* ✨
-
